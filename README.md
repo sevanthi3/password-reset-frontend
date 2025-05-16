@@ -20,4 +20,4 @@ Deployment
 
 You can deploy your frontend using:
 
-https://682743170996218725605bd4--stupendous-melomakarona-c3b757.netlify.app/forgot-password
+https://682743170996218725605bd4--stupendous-melomakarona-c3b757.netlify.app/
